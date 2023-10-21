@@ -1,6 +1,6 @@
 # Titanic-AI
 
-Welcome to the Titanic Machine Learning Exercise repository! This project is the result of my passion for data analysis, machine learning, and predictive modeling, and I'm excited to share it with you. Whether you're a beginner looking to dive into the world of data science or an experienced practitioner honing your skills, this exercise will provide a valuable learning opportunity.
+Welcome to the Titanic Machine Learning Exercise repository! This project is the result of my passion for data analysis, machine learning, and predictive modeling, and I'm excited to share it with you.
 
 **Table of Contents**
 Overview
